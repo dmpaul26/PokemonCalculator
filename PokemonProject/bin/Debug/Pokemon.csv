@@ -1,0 +1,50 @@
+Number,Name,HP,ATK,DEF,SP ATK,SP DEF,SPD,Catch Rate,Type,Type 2
+1,Bulbasaur,5,5,5,7,7,5,18,Grass,Poison
+2,Ivysaur,6,6,6,8,8,6,18,Grass,Poison
+3,Venusaur,8,8,8,10,10,8,18,Grass,Poison
+4,Charmander,4,5,4,6,5,7,18,Fire,
+5,Charmeleon,6,6,6,8,7,8,18,Fire,
+6,Charizard,8,8,8,11,9,10,18,Fire,Flying
+7,Squirtle,4,5,7,5,6,4,18,Water,
+8,Wartortle,6,6,8,7,8,6,18,Water,
+9,Blastoise,8,8,10,9,11,8,18,Water,
+10,Caterpie,5,3,4,2,2,5,100,Bug,
+11,Metapod,5,2,6,3,3,3,48,Bug,
+12,Butterfree,6,5,5,8,8,7,18,Bug,Flying
+13,Weedle,4,4,3,2,2,5,100,Bug,Poison
+14,Kakuna,5,3,5,3,3,4,48,Bug,Poison
+15,Beedrill,7,8,4,5,8,8,18,Bug,Poison
+16,Pidgey,4,5,4,4,4,6,100,Normal,Flying
+17,Pidgeotto,6,6,6,5,5,7,48,Normal,Flying
+18,Pidgeot,8,8,8,7,7,9,18,Normal,Flying
+19,Rattata,3,6,4,3,4,7,100,Normal,
+20,Raticate,6,8,6,5,7,10,51,Normal,
+21,Spearow,4,6,3,3,3,7,100,Normal,Flying
+22,Fearow,7,9,7,6,6,10,36,Normal,Flying
+23,Ekans,4,6,4,4,5,6,100,Poison,
+24,Arbok,6,9,7,7,8,8,36,Poison,
+25,Pikachu,4,6,3,5,4,9,76,Electric,
+26,Raichu,6,9,6,9,8,10,30,Electric,
+27,Sandshrew,5,8,9,2,3,4,100,Ground,
+28,Sandslash,8,10,11,5,6,7,36,Ground,
+29,Nidoran (F),6,5,5,4,4,4,94,Poison,
+30,Nidorina,7,6,7,6,6,6,48,Poison,
+31,Nidoqueen,9,8,9,8,9,8,18,Poison,Ground
+32,Nidoran (M),5,6,4,4,4,5,94,Poison,
+33,Nidorino,6,7,6,6,6,7,48,Poison,
+34,Nidoking,8,9,8,9,8,9,18,Poison,Ground
+35,Clefairy,7,5,5,6,7,4,60,Normal,
+36,Clefable,10,7,7,9,9,6,10,Normal,
+37,Vulpix,4,4,4,5,7,7,76,Fire,
+38,Ninetales,7,8,8,8,10,10,30,Fire,
+39,Jigglypuff,12,5,2,5,3,2,68,Normal,
+40,Wigglytuff,14,7,5,8,5,5,20,Normal,
+41,Zubat,4,5,4,3,4,6,100,Poison,Flying
+42,Golbat,8,8,7,7,8,9,36,Poison,Flying
+43,Oddish,5,5,6,8,7,3,100,Grass,Poison
+44,Gloom,6,7,7,9,8,4,48,Grass,Poison
+45,Vileplume,8,8,9,10,9,5,18,Grass,Poison
+46,Paras,4,7,6,5,6,3,76,Bug,Grass
+47,Parasect,6,9,8,6,8,4,30,Bug,Grass
+48,Venonat,6,6,5,4,6,5,76,Bug ,Poison
+49,Venomoth,7,7,6,9,8,9,30,Bug ,Poison

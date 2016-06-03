@@ -1,0 +1,17 @@
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\bin\Release\PokemonProject.exe.config
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\bin\Release\PokemonProject.exe
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\bin\Release\PokemonProject.pdb
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\CaptureWindow.baml
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\MainWindow.baml
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\DamageWindow.baml
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\CaptureWindow.g.cs
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\MainWindow.g.cs
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\DamageWindow.g.cs
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\App.g.cs
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\PokemonProject_MarkupCompile.cache
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\PokemonProject.g.resources
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\PokemonProject.Properties.Resources.resources
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\PokemonProject.csproj.GenerateResource.Cache
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\PokemonProject.exe
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\PokemonProject.pdb
+C:\Users\Dustin\Documents\Visual Studio 2013\Projects\PokemonProject\PokemonProject\obj\Release\PokemonProject.csprojResolveAssemblyReference.cache
